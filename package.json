@@ -6,6 +6,7 @@
   "license": "MIT",
   "repository": "bazal4o/test-shared-components",
   "main": "dist/index.js",
+  "types": "index.d.ts",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
   "engines": {
