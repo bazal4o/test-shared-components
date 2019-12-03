@@ -8,6 +8,4 @@ declare class ExampleComponent extends React.Component<ExampleComponentProps, an
 
 declare module 'test-shared-components'
 
-export default ExampleComponentProps
-
-
+export default ExampleComponent
